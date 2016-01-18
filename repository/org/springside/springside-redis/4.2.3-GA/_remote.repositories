@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 18 13:18:42 CST 2016
+springside-redis-4.2.3-GA.jar>=
+springside-redis-4.2.3-GA.pom>=
+springside-redis-4.2.3-GA-sources.jar>=
