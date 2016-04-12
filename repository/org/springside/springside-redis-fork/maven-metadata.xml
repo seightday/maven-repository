@@ -3,10 +3,11 @@
   <groupId>org.springside</groupId>
   <artifactId>springside-redis-fork</artifactId>
   <versioning>
-    <release>4.2.3.0-GA</release>
+    <release>4.2.3.1-GA</release>
     <versions>
       <version>4.2.3.0-GA</version>
+      <version>4.2.3.1-GA</version>
     </versions>
-    <lastUpdated>20160318060035</lastUpdated>
+    <lastUpdated>20160412052956</lastUpdated>
   </versioning>
 </metadata>
